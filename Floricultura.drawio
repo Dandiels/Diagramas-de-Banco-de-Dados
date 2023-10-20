@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T13:41:01.758Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CQkibtbBd4JEKvQAG-e6" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T14:17:24.024Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="E_RDy5A6aNhnZKxNh-_y" version="22.0.6" type="github">
   <diagram name="Página-1" id="vqIrUY_rwokZF_1zu7V1">
     <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="-bEHwGGBQ361ID0Da9Ga-9" value="&lt;br&gt;- Nome&lt;br&gt;- Tipo&lt;br&gt;- Preço&lt;br&gt;- Quantidade em Estoque" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="620" y="30" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-bEHwGGBQ361ID0Da9Ga-10" value="Produtos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-bEHwGGBQ361ID0Da9Ga-10" value="Produto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="30" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-bEHwGGBQ361ID0Da9Ga-12" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
