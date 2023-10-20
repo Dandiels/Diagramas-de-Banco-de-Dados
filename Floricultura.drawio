@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T14:17:24.024Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="E_RDy5A6aNhnZKxNh-_y" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T14:24:09.961Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HY4Z4HvKkcpyK7a3gn0W" version="22.0.6" type="github">
   <diagram name="Página-1" id="vqIrUY_rwokZF_1zu7V1">
     <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="250" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAvULO3bnhE5ZWJ0Uj2u-6" value="Compra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="55" width="60" height="30" as="geometry" />
+          <mxGeometry x="309" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAvULO3bnhE5ZWJ0Uj2u-9" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="55" width="60" height="30" as="geometry" />
